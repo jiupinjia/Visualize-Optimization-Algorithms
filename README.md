@@ -1,6 +1,8 @@
 # Visualization of numerical optimization algorithms
 
-Numerical optimization is one of the most important mathematical foundations in image processing and machine learning field. However, at the beginning of my Phd years, the math behind it always made me frustrated. During the winter vacation of 2016, I reviewed 18 well-known optimization algorithms that I studied (including Gradient Descent, Newton Method, Quasi-Newton Method, Augmented Lagrangian Method and etc.), and made a list of GIF visualizations. 
+Numerical optimization is one of the core math foundations in image processing and machine learning. But I remember in the beginning of my Ph.D. years, the math behind always made me frustrated 🙁🙁.
+
+During the winter vacation of 2016, I decided to make a change. I revisited some well-known optimization methods (e.g., Gradient Descent, Newton/Quasi-Newton Method, ALM, etc.), and made a series of GIF visualizations to show how these algorithms behave dynamically. Check out this repository and hope it can help you better understand these algorithms.
 
 ## Gradient Descent Methods.
 
